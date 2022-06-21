@@ -1,4 +1,4 @@
-#include "Color_Code.h"
+#include "ColorCode.h"
 
 const char* majorColors[] = {"White", "Red", "Black", "Yellow", "Violet"};
 const char* minorColors[] = {"Blue", "Orange", "Green", "Brown", "Slate"};
