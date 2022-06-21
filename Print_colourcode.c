@@ -6,7 +6,7 @@ void PrintColorCode_pairnumber()
   int minor_colour;
   int pairnumber = 1;
   
-  Printf("Pair Number. Manjor colur Minor colour \n");
+  printf("Pair Number. Manjor colur Minor colour \n");
   for(major_colour = 0; major_colour < numberOfMajorColors; major_colour++)
     {
         for(minor_colour = 0; minor_colour < numberOfMinorColors; minor_colour++)
